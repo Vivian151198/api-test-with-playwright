@@ -1,2 +1,0 @@
-🚀 ~ postContent: { title: 'foo', body: 'bar', userId: 1 }
-🚀 ~ postContent: { title: 'aaa', body: 'aaadasds', userId: 2 }

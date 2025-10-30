@@ -1,9 +1,0 @@
-🚀 ~ randomPost: {
-  userId: 9,
-  id: 85,
-  title: 'dolore veritatis porro provident adipisci blanditiis et sunt',
-  body: 'similique sed nisi voluptas iusto omnis\n' +
-    'mollitia et quo\n' +
-    'assumenda suscipit officia magnam sint sed tempora\n' +
-    'enim provident pariatur praesentium atque animi amet ratione'
-}
