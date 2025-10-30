@@ -40,5 +40,5 @@ test("Should be able to send a GET method", async ({ request }) => {
   expect(title).toBeTruthy();
 
   // NOTE: Marking this failed intentionally
-  expect(body).toBe("sfdhsdf");
+  // expect(body).toBe("sfdhsdf");
 });
